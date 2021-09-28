@@ -7,11 +7,11 @@ Tech stsck used:-
 
 
 steps to run server
-1. `cd node`
+1. `cd Hon-Web-Backend`
 2. `npm i`
 3. `node index.js`
 
 steps to run webiste
-1. `cd `
+1. `cd hon-web`
 2. `npm i`
 3. `npm start`
